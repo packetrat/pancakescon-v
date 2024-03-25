@@ -2,7 +2,7 @@
 ## References
 For PancakesCon V, I discussed birding, the use of AI in birding, and the use of AI in infosec with some examples. You can find the slides in this repository, and links to the sources (including GitHub repositories for tools) here.
 
-##Birding tools
+## Birding tools
 [eBird, Cornell Lab of Ornithology](https://ebird.org/home), a website and app for sharing information on bird sightings.
 [Merlin app, Cornell Lab of Ornithology](https://merlin.allaboutbirds.org/), a bird identification app 
 [All About Birds online guide](https://allaboutbirds.org), an online bird identification guide.
