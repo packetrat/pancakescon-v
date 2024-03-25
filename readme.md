@@ -17,3 +17,10 @@ For PancakesCon V, I discussed birding, the use of AI in birding, and the use of
 [Jupyter Notebook](https://jupyter.org/install) An environment for data analysis and Machine Learning.
 
 [scikit-learn](https://scikit-learn.org/stable/_) A good Python library to start off with for working with ML / AI.
+
+Articles on the LLM stuff I mentioned:
+
+https://news.sophos.com/en-us/2022/08/25/an-open-source-ml-toolkit-for-automatically-generating-yara-rules/
+
+https://news.sophos.com/en-us/2023/03/16/gpt-for-you-and-me-applying-ai-language-processing-to-cyber-defenses/
+
