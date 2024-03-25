@@ -14,13 +14,14 @@ For PancakesCon V, I discussed birding, the use of AI in birding, and the use of
 
 [YaraML Rules generator](https://github.com/sophos/yaraml_rules) - open source toolkit and samples for generating YARA rules from malware samples.
 
+An article on YaraML: 
+https://news.sophos.com/en-us/2022/08/25/an-open-source-ml-toolkit-for-automatically-generating-yara-rules/
+
 [Jupyter Notebook](https://jupyter.org/install) An environment for data analysis and Machine Learning.
 
 [scikit-learn](https://scikit-learn.org/stable/_) A good Python library to start off with for working with ML / AI.
 
-Articles on the LLM stuff I mentioned:
-
-https://news.sophos.com/en-us/2022/08/25/an-open-source-ml-toolkit-for-automatically-generating-yara-rules/
+Article on the LLM stuff I mentioned:
 
 https://news.sophos.com/en-us/2023/03/16/gpt-for-you-and-me-applying-ai-language-processing-to-cyber-defenses/
 
